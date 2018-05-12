@@ -1,0 +1,44 @@
+_repo: Lives-of-the-Fur-Folk_37127
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caldwell, E. (Edmund G.)
+    alias: Caldwell, Edmund G.
+    gutenberg_agent_id: '38556'
+    url: http://www.gutenberg.org/2009/agents/38556
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haviland, Maud D. (Maud Doria)
+    aliases:
+    - Haviland, M. D. (Maud Doria)
+    - Haviland, Maud Doria
+    - Brindley, Maud Doria
+    birthdate: 1889
+    deathdate: 1941
+    gutenberg_agent_id: '38664'
+    url: http://www.gutenberg.org/2009/agents/38664
+description: ''
+gutenberg_issued: '2011-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Animals'
+- !lcc 'QL'
+tableOfContents: 'The story of Redpad the fox: The spring rains. The hunters. First
+  blood. How the debt was paid. The sheep slayer. From Kilmanagh to Knockdane -- The
+  story of Fluff-Button the rabbit: How Fluff-Button cried quits. The spring longing.
+  The invasion of Garry''s Hill. The fear that was in the way. Under the moon -- Stories
+  from the life of Grimalkin the cat: The first hunting. The stealthy death. The collared
+  buck. Zoe. Where the battle is to the strong -- The biography of Stubbs the badger:
+  The twilight hunters. Borrigan''s baiting. The Larch Hill ''earth.'''
+title: Lives of the Fur Folk
+url: http://www.gutenberg.org/ebooks/37127
